@@ -1,9 +1,8 @@
 title: Stockton Rebels Softball
 email: stocktonrebels@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Stockton Rebels Girls Softball
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Stockton Rebels Girls Softball
+baseurl: "" 
+url: "http://stocktonrebels.info"
 twitter_username: RebelsStockton
 github_username:  stockton-rebels
 
