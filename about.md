@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Stockton Rebels Girls Softball Information Coming Soon
+Stockton Rebels Fastpitch Softball Information Coming Soon
