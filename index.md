@@ -8,11 +8,11 @@ permalink: /
     <div class="col-lg-4 text-center"> 
         <h4> 2020 Season </h4>
         <p>
-            8U tryouts will be announsed soon.
+            All activities canceled
         </p>
     </div>    
     <div class="col-lg-4">
-        <img src="media\images\LittleRebels-Stockton-Logo-Purple.png" style="width: 100%">
+        <img src="media\images\rebels-logo.png" style="width: 100%">
     </div>    
     <div class="col-lg-4 text-center">
         <h4> Three Rules </h4>
