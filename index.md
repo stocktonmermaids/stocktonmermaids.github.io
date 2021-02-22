@@ -8,7 +8,7 @@ permalink: /
     <div class="col-lg-4 text-center"> 
         <h4> 2021 Season </h4>
         <p>
-            See [covid19](/covid19) page for updates
+            See <a href="/covid19">covid19</a> page for updates
         </p>
     </div>    
     <div class="col-lg-4">
