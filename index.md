@@ -6,9 +6,9 @@ permalink: /
 
 <div class="row">
     <div class="col-lg-4 text-center"> 
-        <h4> 2020 Season </h4>
+        <h4> 2021 Season </h4>
         <p>
-            All activities canceled
+            See [covid19](/covid10) page for updates
         </p>
     </div>    
     <div class="col-lg-4">
