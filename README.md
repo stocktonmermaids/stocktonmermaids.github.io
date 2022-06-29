@@ -1,2 +1,3 @@
-# stockton-rebels.github.io
-Stockton Rebels Softball
+# stocktonmermaids.github.io
+# http://stocktonmermaids.com
+Stockton Mermaids 2012 10U Girls Fast Pitch Softball
