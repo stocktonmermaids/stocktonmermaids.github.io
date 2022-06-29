@@ -12,7 +12,7 @@ permalink: /
         </p>
     </div>    
     <div class="col-lg-4">
-        <img src="media\images\rebels-logo.png" style="width: 100%">
+        <!-- <img src="media\images\rebels-logo.png" style="width: 100%"> -->
     </div>    
     <div class="col-lg-4 text-center">
         <h4> Three Rules </h4>
