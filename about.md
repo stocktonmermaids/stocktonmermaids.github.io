@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Stockton Rebels Fastpitch Softball Information Coming Soon
+Stockton Mermaids 2012 10U Girls Fastpitch Softball Information Coming Soon
