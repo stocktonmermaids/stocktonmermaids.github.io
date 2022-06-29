@@ -1,10 +1,9 @@
-title: Stockton Rebels Softball
-email: stocktonrebels@gmail.com
-description: Stockton Rebels Girls Softball
+title: Stockton Mermaids 10U
+email: stocktonmermaids@gmail.com
+description: Stockton Mermaids 2012 10U Girls Fast Pitch Softball
 baseurl: "" 
-url: "http://stocktonrebels.info"
-twitter_username: RebelsStockton
-github_username:  stockton-rebels
+url: "http://stocktonmermaids.com"
+github_username:  stocktonmermaids
 
 # Build settings
 markdown: kramdown
