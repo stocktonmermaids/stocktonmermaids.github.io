@@ -21,7 +21,7 @@ permalink: /covid19/
 
 ---
 
-## Rebels
+## Stockton Mermaids 2012 10U Girls Fastpitch Softball
 
 * [Current Rules](/media/pdf/Rebels Rules.pdf)
 * [COVID-19 Pandemic Player Consent Form](/media/pdf/Rebels COVID Release.pdf)
