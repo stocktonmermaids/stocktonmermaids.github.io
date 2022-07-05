@@ -27,4 +27,11 @@ body,html {
   .vh-100 {
       min-height: 100vh;
   }
-  
+
+/* my additions */
+  tr:nth-child(even) {
+      background-color: #D6EEEE;
+  }
+  table, th, td {
+      border: 1px solid black;
+  }
