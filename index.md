@@ -6,20 +6,20 @@ permalink: /
 
 <div class="row">
     <div class="col-lg-4 text-center"> 
-        <h4> 2021 Season </h4>
-        <p>
-            See <a href="/covid19">covid19</a> page for updates
-        </p>
+        <h4>Updates</hr>
+        <ul>
+            <li>Tryouts #1 7/11/22</li>
+            <li>Tryouts #2 7/13/22</li>
+            <li>Tryouts #3 7/15/22</li>
+            <li>Tryouts #4 7/16/22</li>
+        </ul>
     </div>    
     <div class="col-lg-4">
-        <!-- <img src="media\images\rebels-logo.png" style="width: 100%"> -->
+        <img src="media\images\logo.png" style="width: 100%">
     </div>    
     <div class="col-lg-4 text-center">
-        <h4> Three Rules </h4>
-        <ol>
-            <li>Play Hard</li>
-            <li>Good Attitude</li>
-            <li>Have Fun</li>
-        </ol>
+        <h4>Forms</h4>
+            <ul>
+            </ul>
     </div>
 </div>
