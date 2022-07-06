@@ -23,9 +23,9 @@ permalink: /info/
 
 ### Required equipment
 
-* $15 [Purple Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
-* $15 [Teal Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
-* $40 [Face Mask](https://www.dickssportinggoods.com/p/rip-it-adult-defense-pro-softball-face-guard-w-blackout-technology-16rpiadtsbbdfnsvgfcs/16rpiadtsbbdfnsvgfcs) Any Color
+* [Purple Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
+* [Teal Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
+* Face Mask
 * Softball glove
 * Rubber or plastic cleats
 
