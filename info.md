@@ -4,7 +4,7 @@ title: Player Info
 permalink: /info/
 ---
 
-### Player costs $tbd
+### Player costs TBD
 
 * Included
   * Uniform 1
@@ -31,8 +31,8 @@ permalink: /info/
 
 ### Recommended equipment
 
-* Extra socks purple (https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
-* Extra socks teal (https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
+* [Extra socks purple](https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
+* [Extra socks teal](https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
 * Turf shoes
 * Tennis shoes
 * Shoe bag
