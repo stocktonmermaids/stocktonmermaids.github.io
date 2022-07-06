@@ -16,23 +16,17 @@ permalink: /iq/
 * [Interference](https://www.youtube.com/watch?v=e9Pyw84UHHc)
 * [Obstruction vs Interference](https://www.youtube.com/watch?v=vde8Eu6uQS8)
 * [Look back rule](https://www.youtube.com/watch?v=8BM9ySpj5Mk)
-* Stealing
 
 ## Getting Tryout Ready
 
 * [Getting ready for tryouts](https://www.youtube.com/watch?v=9cpSAfz4Qx4)
 * [More tips to get ready for tryouts](https://www.youtube.com/watch?v=uVl-S59sov4)
 * [Mindset](https://www.youtube.com/watch?v=pJfTRFNKEuM&t=5s)
-* [In season workout tips](https://www.youtube.com/watch?v=yb6ULh-_a2c)
-* [Throwing Side Arm](https://www.youtube.com/watch?v=UmB9dsHHU7I)
-* [Backhand & Forehand](https://www.youtube.com/watch?v=-C7A6ehi7rc)
 
 ## Drills
 
-[Laying on back toss drill](https://www.youtube.com/watch?v=37_e6U-VRxQ): Start by tossing with the right (throwing hand) and catch with both hands. Once that is easy toss with the right (throwing hand) and catch with only the left (glove hand). Once that is easy use two balls and toss with both and catch in the same hand as you tossed. If that is too easy... get a third ball and juggle while laying on your back!
-
-[Wall toss/bounce drill](https://www.youtube.com/watch?v=6ZwTkMllDJc): Start with bouncing the ball off the wall, toss with your right (throwing hand) and catch with your left (glove hand.) Once that is easy bounce the ball off the wall as shown in the video.
-
+* [Laying on back toss drill](https://www.youtube.com/watch?v=37_e6U-VRxQ)
+* [Wall toss/bounce drill](https://www.youtube.com/watch?v=6ZwTkMllDJc)
 * [In season workout tips](https://www.youtube.com/watch?v=yb6ULh-_a2c)
 * [Throwing Side Arm](https://www.youtube.com/watch?v=UmB9dsHHU7I)
 * [Backhand & Forehand](https://www.youtube.com/watch?v=-C7A6ehi7rc)
