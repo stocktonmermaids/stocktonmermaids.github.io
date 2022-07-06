@@ -32,6 +32,3 @@ body,html {
   tr:nth-child(even) {
       background-color: #D6EEEE;
   }
-  table, th, td {
-      border: 1px solid black;
-  }

@@ -72,10 +72,10 @@ An accomplished software developer with a passion for youth sports and organizat
 
 ### Education
 
-#### California State University, Chico (May 2012)
+#### California State University, Chico 
 
 * Bachelor of Science in Computer Science; Minor in Mathematics
 
-#### Mendocino Community College (May 2004)
+#### Mendocino Community College 
 
 * Associates of Science in Mathematics
