@@ -138,7 +138,7 @@
     top: -.5em; }
   
   a {
-    color: #563d7c;
+    color: teal;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects; }
@@ -3661,7 +3661,7 @@
     vertical-align: text-top !important; }
   
   .bg-primary {
-    background-color: #563d7c !important; }
+    background-color: #36454F !important; }
   
   a.bg-primary:hover, a.bg-primary:focus,
   button.bg-primary:hover,
@@ -3717,7 +3717,7 @@
     background-color: #dae0e5 !important; }
   
   .bg-dark {
-    background-color: #343434 !important; }
+    background-color: #36454F !important; }
   
   a.bg-dark:hover, a.bg-dark:focus,
   button.bg-dark:hover,
