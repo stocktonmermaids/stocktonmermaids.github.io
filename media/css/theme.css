@@ -30,5 +30,5 @@ body,html {
 
 /* my additions */
   tr:nth-child(even) {
-      background-color: #D6EEEE;
+      background-color: teal;
   }
