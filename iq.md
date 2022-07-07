@@ -4,7 +4,9 @@ title: Softball IQ
 permalink: /iq/
 ---
 
-## Rules of Softball
+## General Softball IQ
+
+### Rules of Softball
 
 * [Beginner's guide to softball](https://www.youtube.com/watch?v=ehD9c_fQ9nE)
 * [Rules of softball](https://www.youtube.com/watch?v=DwVYejPGS-k)
@@ -17,13 +19,13 @@ permalink: /iq/
 * [Obstruction vs Interference](https://www.youtube.com/watch?v=vde8Eu6uQS8)
 * [Look back rule](https://www.youtube.com/watch?v=8BM9ySpj5Mk)
 
-## Getting Tryout Ready
+### Getting Tryout Ready
 
 * [Getting ready for tryouts](https://www.youtube.com/watch?v=9cpSAfz4Qx4)
 * [More tips to get ready for tryouts](https://www.youtube.com/watch?v=uVl-S59sov4)
 * [Mindset](https://www.youtube.com/watch?v=pJfTRFNKEuM&t=5s)
 
-## Drills
+### Drills
 
 * [Laying on back toss drill](https://www.youtube.com/watch?v=37_e6U-VRxQ)
 * [Wall toss/bounce drill](https://www.youtube.com/watch?v=6ZwTkMllDJc)
@@ -31,13 +33,13 @@ permalink: /iq/
 * [Throwing Side Arm](https://www.youtube.com/watch?v=UmB9dsHHU7I)
 * [Backhand & Forehand](https://www.youtube.com/watch?v=-C7A6ehi7rc)
 
-## Sliding Basics
+### Sliding Basics
 
 * [Getting dirty part 1](https://www.youtube.com/watch?v=iG2T7Bk5_kU)
 * [Getting dirty part 2](https://www.youtube.com/watch?v=k3spsC1e0tM)
 * [Sliding & Drills](https://www.youtube.com/watch?v=7-ZjEtdogco)
 
-## Health Baics
+### Health Baics
 
 * [Icing Basics](https://www.youtube.com/watch?v=li_jB3FzqHM)
 * [Tape ankle](https://www.youtube.com/watch?v=YEJRaL5jIoM)

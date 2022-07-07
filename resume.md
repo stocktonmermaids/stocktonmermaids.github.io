@@ -4,6 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
+## Coach Matthew Harris' Softball Resume
 
 ### Summary
 An accomplished software developer with a passion for youth sports and organizations.

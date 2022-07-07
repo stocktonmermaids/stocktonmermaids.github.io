@@ -4,6 +4,8 @@ title: Player Info
 permalink: /info/
 ---
 
+## Stockton Mermaids' Player Information
+
 ### Player costs TBD
 
 * Included
@@ -13,7 +15,7 @@ permalink: /info/
     * Purple socks
   * Uniform 2
     * Teal jersey
-    * Purple pants
+    * Black pants
     * Teal socks
   * Pair of fun socks
   * Insurance
@@ -28,6 +30,10 @@ permalink: /info/
 * Face Mask
 * Softball glove
 * Rubber or plastic cleats
+* Equipment bag
+* Batting helmet w/ face mask
+* Composite bat
+* Black long sleeve undershirt (no other colors, only needed if cold)
 
 ### Recommended equipment
 
@@ -36,12 +42,8 @@ permalink: /info/
 * Turf shoes
 * Tennis shoes
 * Shoe bag
-* Equipment bag
-* Batting helmet w/ face mask
 * Batting gloves
-* Composite bat
 * Sun glasses
 * Any color eye black
-* Black long sleeve undershirt (no other colors)
 * Sliding pants
 * Any other protective equipment desired (elbow, shin, wrist guards; ankle, knee, wrist braces) 
