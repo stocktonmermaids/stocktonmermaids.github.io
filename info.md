@@ -5,40 +5,45 @@ permalink: /info/
 ---
 
 ## Stockton Mermaids' Player Information
-
-### Player costs TBD
+### Spring Summer 2023
+### Player costs $950
 
 * Included
   * Uniform 1
     * Purple jersey
-    * Charcoal pants
+    * Black pants
+    * Purple belt
     * Purple socks
   * Uniform 2
-    * Teal jersey
-    * Black pants
+    * Charcoal jersey
+    * Charcoal pants
+    * Teal belt
     * Teal socks
-  * Pair of fun socks
-  * Insurance
+  * Team hoody
+  * Insurance & NSA Sanction
   * Field rentals
-  * Practices 2 a week
-  * At least 6 tournaments
+  * At least 2 Practices a week
+  * At least 10 tournaments
 
 ### Required equipment
 
-* [Purple Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
-* [Teal Belt](https://baseball.epicsports.com/prod/3312/index.html?trk=9997)
 * Face Mask
 * Softball glove
 * Rubber or plastic cleats
 * Equipment bag
 * Batting helmet w/ face mask
 * Composite bat
-* Black long sleeve undershirt (no other colors, only needed if cold)
+* Black short sleeve undershirt 
+* Black long sleeve undershirt 
 
 ### Recommended equipment
 
-* [Extra socks purple](https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
-* [Extra socks teal](https://soccer.epicsports.com/prod/91679/index.html?trk=9997)
+* [Extra purple socks](https://www.big5sportinggoods.com/store/details/sof-sole-all-sport-adult-large-team-socks---2-pack/1060140091132)
+* [Extra teal socks](https://www.big5sportinggoods.com/store/details/sof-sole-all-sport-adult-large-team-socks---2-pack/1060140091132)
+* [Black practice socks](https://www.big5sportinggoods.com/store/details/sof-sole-all-sport-adult-large-team-socks---2-pack/1060140091132)
+* [Extra charcoal pants](https://www.amazon.com/gp/product/B014GA949W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Extra black pants](https://www.amazon.com/gp/product/B00FFSDU9K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Purple practice pants](https://www.amazon.com/gp/product/B014GAA9ZA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1&psc=1)
 * Turf shoes
 * Tennis shoes
 * Shoe bag
